@@ -1,4 +1,4 @@
-package opp.enkapsulacia;
+package oop.enkapsulacia;
 
 public class KnihaSpravne {
     private String nazov;

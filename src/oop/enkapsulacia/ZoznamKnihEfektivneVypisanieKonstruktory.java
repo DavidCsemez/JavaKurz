@@ -1,4 +1,4 @@
-package opp.enkapsulacia;
+package oop.enkapsulacia;
 
 import java.util.ArrayList;
 

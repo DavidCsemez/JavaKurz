@@ -1,7 +1,5 @@
 package ulohy.oop.enkapsulacia;
 
-import opp.enkapsulacia.KnihaSpravne;
-
 import java.util.ArrayList;
 
 public class DatabazaZamestnancovMain {

@@ -1,7 +1,5 @@
 package ulohy.oop.enkapsulacia.prepojenie2tabuliek.priklad3;
 
-import opp.enkapsulacia.ZoznamKnih;
-
 import java.time.LocalDate;
 import java.util.ArrayList;
 

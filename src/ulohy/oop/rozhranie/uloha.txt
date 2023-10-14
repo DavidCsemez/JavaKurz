@@ -1,0 +1,8 @@
+Priklad 1:
+Vytvorte rodičovskú triedu, ktorá sa bude volať Cicavec. Bude obsahovať spoločné atribúty (vlastnosti) a metódy (činnosti) cicavcov. A následne vytvorte triedy Pes, Mačka, Kôň, Ovca, ktoré budú dané vlastnosti a metódy dediť.
+Pozn.: Pokúste sa “prepísať” metódy, ktoré sú naviazané na konkrétne zviera, napr. Cicavec bude obsahovať metódu prejavSa(), kde daný cicavec sa prejaví nejakým zvukom, napr. pes zašteká, mačká zamňauká, kôň zaerdží,
+
+
+Priklad 2:
+Vytvorte rozhranie týkajúce sa planét našej slnečnej sústavy. Bude obsahovať interface s názvom Planeta s príslušnými metódami (bez implementácie) a následne triedy ako sú Merkur, Venuša, Zem, atď., ktoré implementujú metódy z Planeta. Implementácia metód môže byť úplne jednoduchá a to taká, že len vypíšeme text do konzoly, napr. Áno je na nej život. Áno má obiehajúce mesiace alebo mesiac, resp. nemá …
+

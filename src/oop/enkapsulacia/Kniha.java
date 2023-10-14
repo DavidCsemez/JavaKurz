@@ -1,4 +1,4 @@
-package opp.enkapsulacia;
+package oop.enkapsulacia;
 //trida len pre ukladanie udajov
 public class Kniha {
     public String nazov;

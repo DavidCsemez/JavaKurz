@@ -1,5 +1,5 @@
 package gui.niecoomne;
-
+// V tomto formáte nefunguje musi sa spusti cez maven a pridat funkcia (program ) ktorá bude obsahovat nashorn v pom.xml
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -43,6 +43,8 @@ public class main {
         JLabel skusenosti=new JLabel("Skusenosti v programovany: ");
         skusenosti.setBounds(10,100,200,20);
         panel.add(skusenosti);
+
+
 
         JLabel program=new JLabel("Python, #C, HTML, CSS, PHP");
         program.setBounds(30,120,300,20);
